@@ -1,0 +1,123 @@
+@font-face {
+    font-family: "Larsseit";
+    src: url("../fonts/Larsseit.woff2") format("woff2"), url("../fonts/Larsseit.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Larsseit";
+    src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Larsseit";
+    src: url("../fonts/Larsseit-Bold.woff2") format("woff2"), url("../fonts/Larsseit-Bold.woff") format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+    font-display: swap;
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+
+body {
+    font-family: "Larsseit";
+}
+
+
+
+
+h1 {
+    font-family: "Lato";
+    font-weight: 900;
+    color: red;
+    margin-left: 400px;
+}
+
+img {
+    margin-left: 385px;
+}
+
+.dyrnev {
+    color: black;
+}
+
+p {
+    color: coral;
+}
+
+.text-one {
+    color: yellowgreen;
+}
+
+p.text-one {
+    font-weight: 700;
+    color: navy;
+}
+
+p.text-two {
+    color: lawngreen;
+}
+
+#descr {
+    color: black;
+}
+
+.text-one.lesson {
+    color: blueviolet;
+}
+
+.lesson {
+    color: aqua;
+}
+
+#dyrneev {
+    color: green;
+    font-family: "Lato";
+}
+
+span {
+    color: red;
+}
+
+.hate {
+    color: #ff0066;
+}
+
+.footer {
+    color: #0099ff;
+}
+
+.footer-img {
+    color: #ff66ff;
+    font-family: "Lato";
+}
